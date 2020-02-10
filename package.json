@@ -1,0 +1,11 @@
+{
+  "name": "Sensei's Bot",
+  "version": "0.1",
+  "description": "Watching Anime",
+  "main": "bot.js",
+  "author": "Sensei",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
